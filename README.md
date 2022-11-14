@@ -25,7 +25,7 @@ The only challenge that I experienced was ensuring that the COUNTIFs formulas we
 
 ### Analysis of Outcomes Based on Launch Date
 
-Theater projects launched in May and June were the most successful i.e. late spring and early summer theater projects are the most successful.
+Theater projects launched in May and June were the most successful i.e. late spring and early summer theater projects were the most successful.
 
 The least successful projects were launched in December, which may be due to the fact that people have less disposable income to spend because of the Christmas holidays. 
 
