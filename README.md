@@ -14,7 +14,7 @@ For this analysis, I looked at theater projects and their outcomes in relation t
 
 I also looked at theater projects (plays) and compared their funding goals in relation to their outcomes to see if there were any patterns in terms of funding goals and outcomes. 
 
-<img src="https://github.com/teresa-le/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png>
+<img src="https://github.com/teresa-le/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png">
 
 
 ### Challenges and Difficulties Encountered
